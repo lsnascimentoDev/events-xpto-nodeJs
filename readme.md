@@ -36,7 +36,7 @@ Events - XPTO
 $ git clone https://github.com/lsnascimentoDev/events-xpto-nodeJs.git
 
 # Entrar no diretório
-$ cd xpto-back-end
+$ cd events-xpto-nodeJs
 
 # Instalar as dependências
 $ yarn install
